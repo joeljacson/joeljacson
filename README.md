@@ -12,8 +12,5 @@
 
 ⚡ Fun fact: I can speak four languages fluently and I'm always eager to learn more!
 
-[![oel Jacson.J GitHub stats](https://github-readme-stats.vercel.app/api?username=joeljacson)](https://github.com/joeljacson/github-readme-stats)
-
-![Joel Jacson.J GitHub stats](https://github-readme-stats.vercel.app/api?username=joeljacson&show_icons=true)
 
 ![Joel Jacson.J GitHub stats](https://github-readme-stats.vercel.app/api?username=joeljacson&show_icons=true&theme=radical)
